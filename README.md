@@ -6,7 +6,10 @@ Bear C2 is a compilation of C2 scripts, payloads, and stagers used in simulated 
 Bear features a variety of encryption methods, including `AES, XOR, DES, TLS, RC4, RSA and ChaCha` to secure communication between the payload and the operator machine.
 This C2 is for simulation only and is still under development.
 
-![imageedit_4_5482104706](https://github.com/S3N4T0R-0X0/Bear/assets/121706460/a43fdb26-c4d6-4b3e-b494-baed4c4b137d)
+
+<img width="248" height="372" alt="imageedit_1_3781422877" src="https://github.com/user-attachments/assets/7de9ebc0-956e-452a-9576-730696d80299" />
+
+
 
 > [!CAUTION]
 > It's essential to note that this project is for educational and research purposes only, and any unauthorized use of it could lead to legal consequences.
